@@ -12,7 +12,7 @@
         android:theme="@style/Theme.FabzProyect"
         tools:targetApi="31">
         <activity
-            android:name=".FirstAppActivity"
+            android:name=".firstapp.FirstAppActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
